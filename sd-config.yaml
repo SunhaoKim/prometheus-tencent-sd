@@ -1,0 +1,10 @@
+# example config
+# ak: ""
+# sk: ""
+# region: ""
+port: 9100
+interval: 1m
+filters:
+  - name: vpc-id
+    values:
+      - ""
