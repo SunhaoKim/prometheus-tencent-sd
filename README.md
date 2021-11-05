@@ -1,6 +1,6 @@
 # Prometheus ksyun sd
 
-腾讯云KEC的服务发现.
+腾讯云CVM的服务发现.
 
 类似[ec2_sd_config](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#ec2_sd_config), prometheus对没有原生支持的sd通过`file_sd`实现, 本repo采用此思路.
 
