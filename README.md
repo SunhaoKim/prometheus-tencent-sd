@@ -1,4 +1,4 @@
-# Prometheus ksyun sd
+# Prometheus txyun sd
 
 腾讯云CVM的服务发现.
 
